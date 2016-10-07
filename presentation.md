@@ -1,4 +1,4 @@
-% DEVELOPING A REAL-TIME AUTOMATED TRADING PLATFORM WITH PYTHON
+% OSBRAIN: A GENERAL-PURPOSE MULTI-AGENT SYSTEM MODULE
 % Miguel Sánchez de León Peque
 % 2016-10-08
 
@@ -103,7 +103,7 @@ Have you met GIL?
 
 - [https://pypi.python.org/pypi/osbrain](https://pypi.python.org/pypi/osbrain)
 - [https://github.com/opensistemas-hub/osbrain](https://github.com/opensistemas-hub/osbrain)
-- [https://pythonhosted.org/osbrain/](http://pythonhosted.org/osbrain/)
+- [https://osbrain.readthedocs.io/](https://osbrain.readthedocs.io/)
 
 ---
 
@@ -113,14 +113,14 @@ Have you met GIL?
 
 ---
 
-TODO: link to examples repo
+[osbrain.readthedocs.io](https://osbrain.readthedocs.io/)
 
 # The end
 
 ## References
 
 - [osBrain source code](https://github.com/opensistemas-hub/osbrain)
-- [osBrain documentation](http://pythonhosted.org/osbrain/)
+- [osBrain documentation](https://osbrain.readthedocs.io/)
 - [ØMQ](http://zguide.zeromq.org/)
 - [Pyro4](https://pythonhosted.org/Pyro4/)
 
