@@ -11,6 +11,8 @@
 - R&D division
 - [Fernando Monera Daroqui](https://www.linkedin.com/in/monera)
   fmonera@opensistemas.com
+- [Guillermo Alonso Núñez](https://www.linkedin.com/in/guillermo-alonso-núñez-806423123)
+  galonso@opensistemas.com
 
 ## Me
 
